@@ -10,8 +10,8 @@
 
 #`````````````````````````````````````#
 def addition(a,b):
-  #TODO -- armita
-  #return result
+  result = a+b
+  return result
 #-------------------------------------#
 
 
